@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751103082625",
+    "firebase_url": "https://gramawastetracker-eff18-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gramawastetracker-eff18",
+    "storage_bucket": "gramawastetracker-eff18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751103082625:android:8218f0d08947269a1a0d80",
+        "android_client_info": {
+          "package_name": "com.example.grama_wastetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751103082625-v5e4ispchq3m40ck58e648vruk7h83mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grama_wastetracker",
+            "certificate_hash": "d14280af56f3bc6a0af04b40c476df73cd2cfbcf"
+          }
+        },
+        {
+          "client_id": "751103082625-bce4mnt5sf6b9r4rsjfk7udl2atu1geq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl2g-jbN5KZ7YyxP61HlFFpYC4GjVGKNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751103082625-bce4mnt5sf6b9r4rsjfk7udl2atu1geq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
